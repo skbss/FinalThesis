@@ -1,2 +1,2 @@
-# FinalThesis
-Final Thesis for LJMU
+# MLHeartDiseasePrediction
+Heart disease prediction using Machine Learning
